@@ -102,7 +102,7 @@ let product = [
   },
   {
     id: 5,
-    image: "images/5.webp",
+    image: "images/5.jpg",
     title: "Morevit pro",
     body: `Advanced multi-vitamin and mineral formula with 24 ingredients. 
                 High dose vitamin B complex and vitamins A, C, D, E, plus essential minerals including magnesium, 
